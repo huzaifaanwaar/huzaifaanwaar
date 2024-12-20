@@ -8,9 +8,6 @@ I’m a **Full-Stack Developer** with experience in **React JS**, **Node JS**, *
 - **Databases**: MySQL, SQL
 - **Others**: WordPress, Git, Docker, REST APIs
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifaanwaar&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
 ## 🌱 Currently Learning:
 - Advanced React features
 - GraphQL
