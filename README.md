@@ -16,7 +16,6 @@ I’m a **Full-Stack Developer** with experience in **React JS**, **Node JS**, *
 ## 📫 Let's Connect:
 Feel free to reach out if you'd like to collaborate or chat about development.
 
-- ✉️ Email: your.email@example.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-anwaar/)
 
 Let’s bring great ideas to life! ✨ Don't hesitate to get in touch. 📩
